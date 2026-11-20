@@ -1,14 +1,12 @@
 <!-- Profile README for kaveripatil04 | Accent: #BF4B8A -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BF4B8A&height=180&section=header&text=Kaveri%20Patil&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Waving header banner" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=BF4B8A&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Engineering;Java+%7C+React+%7C+SQL;Building+practical+software+projects" alt="Typing animation" />
+  <img src="assets/hero.svg" alt="Kaveri Patil — Software Developer" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaveripatil04&color=BF4B8A&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kaveripatil04?label=Followers&style=flat&color=BF4B8A" alt="GitHub followers" />
+  <a href="https://github.com/kaveripatil04"><img src="https://img.shields.io/badge/GitHub-kaveripatil04-9b315f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:kaverispatil2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-cb6f98?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ## Who I Am
