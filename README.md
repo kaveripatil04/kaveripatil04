@@ -14,7 +14,7 @@
 ```typescript
 const kaveri = {
   title: "Software Developer | Computer Engineering",
-  stack: ["Java", "JavaScript", "C", "C++", "React.js", "HTML", "CSS", "MySQL", "SQL"],
+  stack: ["Java", "JavaScript", "C", "C++", "React.js", "HTML", "CSS", "MySQL"],
   launchedProjects: ["AI-Powered Code Corrector", "MedicareHub"],
   certifications: [],
   status: "Learning and building software projects",
@@ -25,9 +25,11 @@ const kaveri = {
 ## Featured Projects
 
 ### AI-Powered Code Corrector
-
-[![AI-Powered Code Corrector](https://github-readme-stats.vercel.app/api/pin/?username=kaveripatil04&repo=AI-Powered-Code-Corrector&theme=default&title_color=BF4B8A&border_color=BF4B8A)](https://github.com/kaveripatil04/AI-Powered-Code-Corrector)
-
+A web application that identifies programming errors and provides correction suggestions to help users learn and debug.
+- Detects syntax and logical errors across supported programming languages
+- Explores rule-based analysis and machine-learning techniques
+- **Tech:** Python, Django, HTML, CSS, JavaScript, Machine Learning
+  
 | Layer | Technology |
 |---|---|
 | Languages | Python, C, C++, Java |
@@ -35,23 +37,25 @@ const kaveri = {
 | Machine Learning | TF-IDF, KNN |
 | Tools | Django, GCC, javac |
 
-- [Code](https://github.com/kaveripatil04/AI-Powered-Code-Corrector)
+<!--- [Code](https://github.com/kaveripatil04/AI-Powered-Code-Corrector)-->
 
 ### MedicareHub
-
-[![MedicareHub](https://github-readme-stats.vercel.app/api/pin/?username=kaveripatil04&repo=MedicareHub&theme=default&title_color=BF4B8A&border_color=BF4B8A)](https://github.com/kaveripatil04/MedicareHub)
+A healthcare web application designed to bring patients, doctors, and pharmacies together in one platform.
+- Appointment booking, medicine ordering, and patient-record management
+- Database operations and user interactions for healthcare workflows
+- Focused on simplifying communication between patients and providers
 
 | Layer | Technology |
 |---|---|
 | Project | MedicareHub |
 
-- [Code](https://github.com/kaveripatil04/MedicareHub)
+<!--- [Code](https://github.com/kaveripatil04/MedicareHub)-->
 
 ## Tech Stack
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,js,c,cpp,python&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,js,c,cpp,&theme=light)](https://skillicons.dev)
 
 ### Frontend
 
@@ -99,9 +103,21 @@ const kaveri = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveripatil04&bg_color=ffffff&color=BF4B8A&line=BF4B8A&point=BF4B8A&area=true&hide_border=true" alt="Contribution activity graph" />
 </div>
 
+## ✦ Education
+
+**Bachelor of Engineering — Computer Engineering**  
+D. N. Patel College of Engineering, Shahada
+
+## ✦ Languages
+
+- Marathi — Native
+- Hindi — Advanced
+- English — Proficient
+
 ## Connect
 
-<!-- Add social/contact badges here when links are provided. -->
+- GitHub: [@kaveripatil04](https://github.com/kaveripatil04)
+- Email: [kaverispatil2004@gmail.com](mailto:kaverispatil2004@gmail.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BF4B8A&height=110&section=footer" alt="Waving footer banner" />
